@@ -26,33 +26,53 @@
        <?php $page = 'index'; require 'menu.php';?>
        <div id="slogan-accueil">
          <h1>LORK, nos projets sont les vôtres.</h1>
-         <p>LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
+         <p class="white">LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
        </div>
     </header>
 
     <section id="information-accueil">
-      <div class="row">
+      <div class="row info">
         <div class="col-md-4 col-sm-12">
         <h3>Qui sommes nous ?</h3>
           <p>
-           blablablablablablablablablablablablablablablablablablablablablabla 
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
         </div>
         <div class="col-md-4 col-sm-12">
         <h3>Qui faisons nous ?</h3>
           <p>
-           blablablablablablablablablablablablablablablablablablablablablabla 
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
         </div>
         <div class="col-md-4 col-sm-12">
         <h3>Notre philosophie ?</h3>
           <p>
-           blablablablablablablablablablablablablablablablablablablablablabla 
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
         </div>
       </div>
     </section>
     <section id="services-accueil">
+      <div class="row">
+        <div class="col-md-6 col-sm-12 colonne-centree text-center">
+          <h2>Nos services</h2>
+        </div>
+      </div>
       <div class="row">
         <div class="col-md-6 col-sm-12">
           <a href="services.php"><img src="http://placehold.it/350x200"></a>
