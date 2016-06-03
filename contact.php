@@ -23,7 +23,7 @@
   <body>
 
     <header id="header-accueil">
-       <?php $page = 'index'; require 'menu.php';?>
+       <?php $page = 'contact'; require 'menu.php';?>
        <div id="slogan-accueil">
          <h1>LORK, nos projets sont les vôtres.</h1>
          <p>LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
