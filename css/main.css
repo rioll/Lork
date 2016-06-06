@@ -32,7 +32,7 @@ ul{
 footer{
 	height: auto;
 	padding: 1.5%;
-	background-color: black;
+	background-color: #ddd;;
 
 }
 														/*couleur*/
@@ -128,6 +128,37 @@ footer{
 
 .row{
 	margin: 0;
+
+}
+
+.roundedB{
+    overflow: hidden;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    width: 90px;
+    height: 90px;
+    border: 3px solid  #009999;
+
+}
+.roundedV{
+    overflow: hidden;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    width: 90px;
+    height: 90px;
+    border: 3px solid  #9fee00;
+
+}
+.roundedO{
+    overflow: hidden;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    width: 90px;
+    height: 90px;
+    border: 3px solid  #cc5200;
 
 }
 /****************************************************************************************************

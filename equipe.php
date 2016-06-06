@@ -34,7 +34,7 @@
       </div>  
       <div class="row pad2 text-center">
         <div class="col-md-4 col-sm-12">
-          <img src="images/emilien.png">
+          <img src="images/emilien.png" class="roundedO">
           <h3 class="orange">Emilien</h3>
           <p>Réfèrenceur</p>
           <p class="pad2">
@@ -48,7 +48,7 @@
           <a href="" class="btn-orange">En savoir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
-        <img src="images/Sacha.png">
+        <img src="images/Sacha.png" class="roundedV">
           <h3 class="vert">Sacha</h3>
           <p>Développeur</p>
           <p class="pad2">
@@ -62,7 +62,7 @@
           <a href="sachafargeaudou.fr" class="btn-vert">En savoir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
-        <img src="images/achille.png">
+        <img src="images/achille.png" class="roundedB">
           <h3 class="bleu">Achille</h3>
           <p>Graphiste</p>
           <p class="pad2">
