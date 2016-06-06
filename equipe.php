@@ -8,6 +8,7 @@
     <meta content="Fargeaudou Sacha" name="author">
     <title>Accueil</title>
 
+    <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
 
@@ -27,16 +28,16 @@
        <?php $page = 'equipe'; require 'menu.php';?>
     </header>
 
-    <section id="information-accueil">
-      <div class="row">
+    <section id="information-equipe">
+      <div class="row pad1">
         <h1>Notre équipe</h1>
       </div>  
-      <div class="row">
+      <div class="row pad2 text-center">
         <div class="col-md-4 col-sm-12">
           <img src="images/emilien.png">
-          <h3>Emilien</h3>
+          <h3 class="orange">Emilien</h3>
           <p>Réfèrenceur</p>
-          <p>
+          <p class="pad2">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -44,13 +45,13 @@
            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
-          <a href="" class="btn-vert">En savoir plus</a>
+          <a href="" class="btn-orange">En savoir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
         <img src="images/Sacha.png">
-          <h3>Sacha</h3>
+          <h3 class="vert">Sacha</h3>
           <p>Développeur</p>
-          <p>
+          <p class="pad2">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -62,9 +63,9 @@
         </div>
         <div class="col-md-4 col-sm-12">
         <img src="images/achille.png">
-          <h3>Achille</h3>
+          <h3 class="bleu">Achille</h3>
           <p>Graphiste</p>
-          <p>
+          <p class="pad2">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -72,43 +73,19 @@
            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
-          <a href="" class="btn-vert">En savoir plus</a>
+          <a href="" class="btn-bleu">En savoir plus</a>
         </div>
       </div>
-    </section>
-    <section id="services-accueil">
-      <div class="row">
-        <div class="col-md-6 col-sm-12 colonne-centree text-center">
-          <h2>Nos services</h2>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-sm-12 right">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
-        <div class="col-md-6 col-sm-12">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
-      </div>  
       <div class="row pad2">
-        <div class="col-md-6 col-sm-12 right">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
-        <div class="col-md-6 col-sm-12 ">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
-      </div> 
-      <div class="row">
           <div class="col-md-12 col-sm-12 text-center">
-            <p class="orange">LORK sait bien s'entourer, c'est pouquoi  il est aussi possible de répondre à vos besoins de production audiovisuelle.</p>
+            <p class="orange">Pour toute demande de devis ou d'informations complémentaire, n'hésitez pas à nous contacter.</p>
           </div>
       </div>
-      <div class="row">
+      <div class="row pad2">
           <div class="col-md-12 col-sm-12 text-center pad2">
             <a href="contact.php" class="btn-vert">Faire une demande de devis</a>
           </div>
       </div>
-
     </section>
 
     <footer>

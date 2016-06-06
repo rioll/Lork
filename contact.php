@@ -8,6 +8,7 @@
     <meta content="Fargeaudou Sacha" name="author">
     <title>Accueil</title>
 
+    <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
 

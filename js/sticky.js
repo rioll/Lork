@@ -1,8 +1,8 @@
-$(window).scroll(function (event) {
+/*$(window).scroll(function (event) {
     
     var y = $(this).scrollTop(); 
 
-    if (y >= 100) {
+    if (y >= 120) {
       $('.header-sticky').addClass('fixed');
     } else {
       // sinon, on l'enlève
@@ -10,3 +10,4 @@ $(window).scroll(function (event) {
     }
     
   });
+*/

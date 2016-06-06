@@ -1,19 +1,22 @@
 /****************************************************************************************************
 ***********************************************GENERAL***********************************************
 ****************************************************************************************************/
+														/*TAG*/
+body{
+	font-family: 'Signika', sans-serif;
+}
 h1{
-	color: rgb(255, 108, 0);
-
+	color: #cc5200;
+	font-family: 'Dosis', sans-serif;
 }
 
 h2{
-	color: lightblue;
-	
+	color: #009999;
+	font-family: 'Dosis', sans-serif;
 }
 
 h3{
-	color: #d4f78c;
-
+	font-family: 'Dosis', sans-serif;
 }
 
 a:hover{
@@ -29,8 +32,29 @@ ul{
 footer{
 	height: auto;
 	padding: 1.5%;
+	background-color: black;
 
 }
+														/*couleur*/
+.white{
+	color: white;
+
+}
+.vert{
+	color:#9fee00;
+
+}
+
+.bleu{
+	color:#009999;
+
+}
+
+.orange{
+	color: #cc5200;
+
+}
+														/*position*/
 
 .pad1{
 	padding: 1%;
@@ -44,16 +68,6 @@ footer{
 
 .pad10{
 	padding: 10%;
-
-}
-
-.row{
-	margin: 0;
-
-}
-
-.white{
-	color: white;
 
 }
 
@@ -72,14 +86,9 @@ footer{
 	text-align: end;
 
 }
-
-.orange{
-	color: orange;
-
-}
-
+														/*element*/
 .btn-vert {
-	background-color: #b7e510;
+	background-color: #9fee00;
     color: white;
 	padding: 12px;
 	border-radius: 50px;
@@ -91,6 +100,36 @@ footer{
 
 }
 
+.btn-orange {
+	background-color: #cc5200;
+    color: white;
+	padding: 12px;
+	border-radius: 50px;
+
+}
+
+.btn-orange:hover{
+	color:white;
+
+}
+
+.btn-bleu {
+	background-color: #009999;
+    color: white;
+	padding: 12px;
+	border-radius: 50px;
+
+}
+
+.btn-bleu:hover{
+	color:white;
+
+}
+
+.row{
+	margin: 0;
+
+}
 /****************************************************************************************************
 ***********************************************MENU**************************************************
 ****************************************************************************************************/
@@ -111,22 +150,22 @@ footer{
 
 #navigation ul li {
     display: inline;
-    padding: 6%;
+    padding: 5%;
 
 }
 
 .active{
-	border-bottom: 2px solid orange;
+	border-bottom: 2px solid #cc5200;
 	padding-bottom: 1%;
 
 }
 
 .header-sticky{	
-	background-image: -moz-linear-gradient( 0deg, rgb(159,238,0) 0%, rgb(0,153,153) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(159,238,0) 0%, rgb(0,153,153) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(159,238,0) 0%, rgb(0,153,153) 100%);
-	opacity: 0.451;
-	height: 100px;
+	background: -moz-linear-gradient(left,  rgba(159,238,0,0.45) 0%, rgba(0,153,153,0.45) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(159,238,0,0.45) 0%,rgba(0,153,153,0.45) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(159,238,0,0.45) 0%,rgba(0,153,153,0.45) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#739fee00', endColorstr='#73009999',GradientType=1 ); /* IE6-9 */
+	height: 120px;
 
 }
 
@@ -153,29 +192,35 @@ footer{
   position: fixed;
   top:0;
   z-index:1000;
-  opacity: 0.8;
   width: 100%;
-  height: auto;
+  height: 100px;
   -webkit-transition-property: margin-top,margin-right;
+  opacity: 0.451;
  
 }
+
+.logo{
+	max-width: 70px;
+}
+
 /****************************************************************************************************
 ***********************************************ACCUEIL***********************************************
 ****************************************************************************************************/
 #header-accueil{
-	background-image: -moz-linear-gradient( 0deg, rgb(159,238,0) 0%, rgb(0,153,153) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(159,238,0) 0%, rgb(0,153,153) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(159,238,0) 0%, rgb(0,153,153) 100%);
-	opacity: 0.451;
-	height: 60vh;
+	background: -moz-linear-gradient(left,  rgba(159,238,0,0.45) 0%, rgba(0,153,153,0.45) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  rgba(159,238,0,0.45) 0%,rgba(0,153,153,0.45) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  rgba(159,238,0,0.45) 0%,rgba(0,153,153,0.45) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#739fee00', endColorstr='#73009999',GradientType=1 ); /* IE6-9 */	height: 60vh;
 	position: relative;
 
 }
 
+
+
 #slogan-accueil{
 	position: relative;
 	text-align: center;
-	top: 40%;
+	top: 25%;
 	transform: translateY(-50%);
 
 }
@@ -186,7 +231,7 @@ footer{
 }
 
 #services-accueil{
-	background-color: #e6e6e6;
+	background-color: #4e4f4f;
 
 }
 .info{
@@ -194,7 +239,13 @@ footer{
 
 }
 
+/****************************************************************************************************
+***********************************************EQUIPE************************************************
+****************************************************************************************************/
+#information-equipe{
+    margin-bottom: 2%;
 
+}
 
 /****************************************************************************************************
 ***********************************************SERVICES**********************************************
@@ -211,3 +262,8 @@ footer{
 /****************************************************************************************************
 ***********************************************CONTACT***********************************************
 ****************************************************************************************************/
+
+
+
+
+
