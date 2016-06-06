@@ -13,6 +13,7 @@
 
     <link href="images/ico.png" rel="shortcut icon">
 
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -22,18 +23,19 @@
   </head>
   <body>
 
-    <header id="header-accueil">
-       <?php $page = 'index'; require 'menu.php';?>
-       <div id="slogan-accueil">
-         <h1>LORK, nos projets sont les vôtres.</h1>
-         <p class="white">LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
-       </div>
+    <header class="header-sticky">
+       <?php $page = 'equipe'; require 'menu.php';?>
     </header>
 
     <section id="information-accueil">
-      <div class="row info">
+      <div class="row">
+        <h1>Notre équipe</h1>
+      </div>  
+      <div class="row">
         <div class="col-md-4 col-sm-12">
-        <h3>Qui sommes nous ?</h3>
+          <img src="images/emilien.png">
+          <h3>Emilien</h3>
+          <p>Réfèrenceur</p>
           <p>
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -42,28 +44,35 @@
            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
+          <a href="" class="btn-vert">En savoir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
-        <h3>Qui faisons nous ?</h3>
+        <img src="images/Sacha.png">
+          <h3>Sacha</h3>
+          <p>Développeur</p>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
+          <a href="sachafargeaudou.fr" class="btn-vert">En savoir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
-        <h3>Notre philosophie ?</h3>
+        <img src="images/achille.png">
+          <h3>Achille</h3>
+          <p>Graphiste</p>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
+          <a href="" class="btn-vert">En savoir plus</a>
         </div>
       </div>
     </section>
@@ -111,7 +120,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-     <!-- Contact Form JavaScript -->
+    
+    <script src="js/sticky.js"></script>
+
 
    
   </body>
