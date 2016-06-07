@@ -294,7 +294,63 @@ footer{
 ***********************************************CONTACT***********************************************
 ****************************************************************************************************/
 
+#contact{
+	background-color: #5a8395;
+}
+.form-control{
+	color:#424242;
+	background-color: #ffffff;
+	border:1px solid #8cd1d1;
+	box-shadow:none;
+	border-radius:0;
+	margin-bottom:5%;
+}
+.help-block{
+	color: white;
+	float: right;
+	margin: -8.3%;
+}
 
+#btn-contact{
+	background-color:#8cd1d0;
+	color:white;
+	padding: 5% 12% 5% 12% ;
+	border:1px solid white;
+	text-transform:uppercase;
 
+}
+.form-control:focus{
+	border-color: #00BCD4;
+	box-shadow: none;
+
+}
+textarea.form-control{
+	border: 1px solid #8cd1d0;
+	background: white;
+	color: #3a3a3a;
+	border-radius: 0;
+	height: 300px;
+}
+.form-control::-webkit-input-placeholder { color: orange; }
+.form-control:-moz-placeholder { color: orange; }
+.form-control::-moz-placeholder { color: orange; }
+.form-control:-ms-input-placeholder { color: orange; }
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 0;
+    font-family: roboto;
+    text-transform: uppercase;
+}
+.alert-danger {
+    color: #FFFFFF;
+    background-color: #00356C;
+}
+
+#contact-geo{
+	background: lightgray;
+}
 
 

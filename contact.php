@@ -11,8 +11,10 @@
     <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
 
     <link href="images/ico.png" rel="shortcut icon">
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -23,57 +25,45 @@
   </head>
   <body>
 
-    <header id="header-accueil">
+    <header class="header-sticky">
        <?php $page = 'contact'; require 'menu.php';?>
-       <div id="slogan-accueil">
-         <h1>LORK, nos projets sont les vôtres.</h1>
-         <p>LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
-       </div>
     </header>
 
-    <section id="information-accueil">
-      <div class="row">
-        <div class="col-md-4 col-sm-12">
-        <h3>Qui sommes nous ?</h3>
-          <p>
-           blablablablablablablablablablablablablablablablablablablablablabla 
-          </p>
-        </div>
-        <div class="col-md-4 col-sm-12">
-        <h3>Qui faisons nous ?</h3>
-          <p>
-           blablablablablablablablablablablablablablablablablablablablablabla 
-          </p>
-        </div>
-        <div class="col-md-4 col-sm-12">
-        <h3>Notre philosophie ?</h3>
-          <p>
-           blablablablablablablablablablablablablablablablablablablablablabla 
-          </p>
-        </div>
-      </div>
-    </section>
-    <section id="services-accueil">
-      <div class="row">
-        <div class="col-md-6 col-sm-12">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
-        <div class="col-md-6 col-sm-12">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
+    <section id="information-equipe">
+      <div class="row pad1">
+        <h1>Nous contacter</h1>
       </div>  
-      <div class="row">
-        <div class="col-md-6 col-sm-12">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
-        <div class="col-md-6 col-sm-12">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
-        </div>
+      <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-offset-4 col-md-4 col-sm-offset-4 col-sm-4">
+              <form id="contactForm" name="contactForm" novalidate="">
+                  <div class="form-group">
+                      <input class="form-control" data-validation-required-message="Nom, requis" id="name" placeholder="Nom" required="" type="text">
+                      <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                      <input class="form-control" data-validation-required-message="Email, requis" id="email" placeholder="Email" required="" type="email">
+                      <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                      <textarea class="form-control" data-validation-required-message="Un peu de texte svp" id="message" placeholder="Message" required="">
+                      </textarea>
+                      <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="col-lg-12 text-center">
+                      <div id="success"></div><button id="btn-contact" type="submit">Send</button>
+                  </div>
+                </form> 
+              </div>
+          </div>
+       </div>
+    </section>
+    <section id="contact-geo">
+      <div class="row pad1">
+        <h2>Répartis dans plusieurs villes, nous ponvous ainsi facilement venir à votre rencontre dans plusieurs départements et pays francophones. </h2>
       </div> 
-      <div class="row">
-        <p>LORK sait bien s'entourer, c'est pouquoi  il est aussi possible de répondre à vos besoins de production audiovisuelle.</p>
-        <button>Faire une demande de devis</button>
-      </div>
+      <p><img src="images/carte-contact.png"></p>
     </section>
 
     <footer>
@@ -85,7 +75,11 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-     <!-- Contact Form JavaScript -->
+    
+    <!--<script src="js/sticky.js"></script>-->
+    <script src="js/jqBootstrapValidation.js"></script> 
+    <script src="js/contact_me.js"></script>
+    <script src="js/appear.js"></script>
 
    
   </body>
