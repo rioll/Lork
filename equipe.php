@@ -30,7 +30,7 @@
 
     <section id="information-equipe">
       <div class="row pad1">
-        <h1>Notre équipe</h1>
+        <h1 class="text-center">Notre équipe</h1>
       </div>  
       <div class="row pad2 text-center">
         <div class="col-md-4 col-sm-12">
