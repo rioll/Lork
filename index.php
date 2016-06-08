@@ -102,7 +102,7 @@
 
     </section>
 
-    <footer>
+    <footer class="bg-white">
        <?php require 'footer.php';?>
     </footer>
     
