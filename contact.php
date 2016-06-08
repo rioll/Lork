@@ -30,11 +30,11 @@
     </header>
 
     <section id="information-equipe">
-      <div class="row pad1">
+      <div class="row pad1 text-center">
         <h1>Nous contacter</h1>
       </div>  
       <div class="container-fluid">
-          <div class="row">
+          <div class="row pad2">
             <div class="col-md-offset-4 col-md-4 col-sm-offset-4 col-sm-4">
               <form id="contactForm" name="contactForm" novalidate="">
                   <div class="form-group">
@@ -52,7 +52,7 @@
                   </div>
                   <div class="clearfix"></div>
                   <div class="col-lg-12 text-center">
-                      <div id="success"></div><button id="btn-contact" type="submit">Send</button>
+                      <div id="success"></div><button id="btn-contact" type="submit">Envoyer</button>
                   </div>
                 </form> 
               </div>
@@ -60,10 +60,10 @@
        </div>
     </section>
     <section id="contact-geo">
-      <div class="row pad1">
+      <div class="row pad2 text-center">
         <h2>Répartis dans plusieurs villes, nous ponvous ainsi facilement venir à votre rencontre dans plusieurs départements et pays francophones. </h2>
       </div> 
-      <p><img src="images/carte-contact.png"></p>
+      <p class="text-center pad2"><img src="images/carte-contact.png"></p>
     </section>
 
     <footer>
