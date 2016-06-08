@@ -31,7 +31,7 @@
 
     <section id="information-equipe">
       <div class="row pad1 text-center">
-        <h1>Nous contacter</h1>
+        <h1 class="bleu">Nous contacter</h1>
       </div>  
       <div class="container-fluid">
           <div class="row pad2">
@@ -61,7 +61,7 @@
     </section>
     <section id="contact-geo">
       <div class="row pad2 text-center">
-        <h2>Répartis dans plusieurs villes, nous ponvous ainsi facilement venir à votre rencontre dans plusieurs départements et pays francophones. </h2>
+        <h2>Répartis dans plusieurs villes, nous pouvons ainsi facilement venir à votre rencontre dans plusieurs départements et pays francophones. </h2>
       </div> 
       <p class="text-center pad2"><img src="images/carte-contact.png"></p>
     </section>

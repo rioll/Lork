@@ -32,7 +32,7 @@ ul{
 footer{
 	height: auto;
 	padding: 1.5%;
-	background-color: #ddd;;
+	background-color: white;
 
 }
 														/*couleur*/
@@ -262,7 +262,7 @@ footer{
 }
 
 #services-accueil{
-	background-color: #4e4f4f;
+	background-color: #e6e6e6;
 
 }
 .info{
@@ -307,8 +307,7 @@ footer{
 }
 .help-block{
 	color: #cc5200;
-	float: right;
-	margin: -8.3%;
+	float: right;;
 }
 
 #btn-contact{
@@ -321,11 +320,12 @@ footer{
 }
 
 #btn-contact:focus{
-	background-color: #9fee00;
+	background-color: #cc5200;
     color: white;
 	padding: 20px 50px 20px 50px;;
 	border-radius: 10px;
 	border: none;
+	outline-color: initial;;;
 
 }
 .form-control:focus{
@@ -358,7 +358,7 @@ textarea.form-control{
 }
 
 #contact-geo{
-	background: lightgray;
+	background: #e6e6e6;
 }
 
 
