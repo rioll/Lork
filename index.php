@@ -73,20 +73,21 @@
           <h2>Nos services</h2>
         </div>
       </div>
+      
       <div class="row">
         <div class="col-md-6 col-sm-12 right">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
+          <a href="services.php"><img src="images/branding.jpg" width="430" height="270"></a>
         </div>
         <div class="col-md-6 col-sm-12">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
+          <a href="services.php"><img src="images/graphisme.jpg" width="430" height="270"></a>
         </div>
       </div>  
       <div class="row pad2">
         <div class="col-md-6 col-sm-12 right">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
+          <a href="services.php"><img src="images/programmation-web.jpg" width="430" height="270"></a>
         </div>
         <div class="col-md-6 col-sm-12 ">
-          <a href="services.php"><img src="http://placehold.it/350x200"></a>
+          <a href="services.php"><img src="images/seo.jpg" width="430" height="270"></a>
         </div>
       </div> 
       <div class="row pad2">

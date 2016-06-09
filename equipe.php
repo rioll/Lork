@@ -29,6 +29,7 @@
     </header>
 
     <section id="information-equipe">
+
       <div class="row pad1 text-center">
         <h1 class="bleu">Notre équipe</h1>
       </div>  
