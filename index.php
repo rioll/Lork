@@ -25,7 +25,7 @@
     <header id="header-accueil">
        <?php $page = 'index'; require 'menu.php';?>
        <div id="slogan-accueil">
-         <h1>LORK, vos projets sont les nôtres.</h1>
+         <h1 class="orange">LORK, vos projets sont les nôtres.</h1>
          <p class="white">LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
        </div>
     </header>
