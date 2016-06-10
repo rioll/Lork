@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="Lork, collectif freelance, web developpeur et web design" name="description">
-    <meta content="Fargeaudou Sacha" name="author">
-    <title>Accueil</title>
+        <meta content="Fargeaudou - Flamein - Picarony" name="author">
+    <title>Lork - Projets</title>
     <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
@@ -28,7 +28,7 @@
 
    
     <section id="information-projets">
-      <div class="row pad1">
+      <div class="row pad2 ">
         <h1 class="bleu text-center">Nos projets</h1>
       </div> 
       <div class="row pad1 right">

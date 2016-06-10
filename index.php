@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="Lork, collectif freelance, web developpeur et web design" name="description">
-    <meta content="Fargeaudou Sacha" name="author">
-    <title>Accueil</title>
+        <meta content="Fargeaudou - Flamein - Picarony" name="author">
+    <title>Lork - Accueil </title>
     <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
@@ -36,25 +36,16 @@
         <div class="col-md-4 col-sm-12">
         <h3 class="vert">Qui sommes nous ?</h3>
           <p class="quiquequoi">
-           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+           Natifs de trois régions différentes nous nous sommes rencontrés sur les bancs de l’université et après avoir obtenu notre diplôme nous avons pris la décision de continuer à travailler ensemble. Pour cela nous avons créé LORK qui est pour nous l’occasion de promouvoir notre activité et de mettre en commun des compétences complémentaires.
           </p>
                       <a href="equipe.php" class="btn-orange-light">En savoir plus</a>
 
         </div>
         <div class="col-md-4 col-sm-12">
-        <h3 class="vert">Qui faisons nous ?</h3>
+        <h3 class="vert">Que faisons nous ?</h3>
           <p class="quiquequoi">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+         Nous vous proposons de développer votre communication de la façon la plus en phase avec votre identité. Nous bason notre approche sur l’écoute et la collaboration afin de
+coller au mieux avec vos attentes tout en apportant notre savoir faire et notre expertise.  Nos compétences vont du branding avec la création d’identité de marque, au développement de site web et d’application en passant par le graphisme avec la création de logo, d’affiche ou encore de bannières publicitaires.
           </p>
                       <a href="projet.php" class="btn-orange-light">En savoir plus</a>
 
@@ -62,12 +53,8 @@
         <div class="col-md-4 col-sm-12">
         <h3 class="vert">Notre philosophie ?</h3>
           <p class="quiquequoi">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Basée sur l’écoute, notre approche place chacun de nos clients au centre des projets
+sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de votre public et la réalisation de vos objectifs dans le respect de vos valeurs. Chez LORK, chaque projet est géré par un interlocuteur unique qui se dévouera corps et âmes pour faciliter les échanges et vous procurer cette immense satisfaction d’une communication réussie
           </p>
                       <a href="services.php" class="btn-orange-light">En savoir plus</a>
 
@@ -99,7 +86,7 @@
       </div> 
       <div class="row pad2">
           <div class="col-md-12 col-sm-12 text-center">
-            <p class="orange">LORK sait bien s'entourer, c'est pouquoi  il est aussi possible de répondre à vos besoins de production audiovisuelle.</p>
+            <p class="orange text-vingt">LORK sait bien s'entourer, c'est pouquoi  il est aussi possible de répondre à vos besoins de production audiovisuelle.</p>
           </div>
       </div>
       <div class="row pad2">
