@@ -124,29 +124,18 @@ footer{
 }
 
 .btn-orange {
-	background-color: #cc5200;
-    color: white;
-	padding: 12px;
-	border-radius: 50px;
+
+    color: #cc5200;
+	border-radius: 10px;
+	border: 2px solid #cc5200;
+    padding: 10px 12px 10px 12px;
+
 
 }
 
 .btn-orange:hover{
-	color:white;
-
-}
-
-.btn-bleu {
-	background-color: #009999;
-    color: white;
-	padding: 12px;
-	border-radius: 50px;
-
-}
-
-.btn-bleu:hover{
-	color:white;
-
+		color: white;
+		background: #cc5200;
 }
 
 .row{
@@ -184,6 +173,10 @@ footer{
     border: 3px solid  #cc5200;
 
 }
+.gras{
+	font-weight: 600;
+}
+
 /****************************************************************************************************
 ***********************************************MENU**************************************************
 ****************************************************************************************************/
@@ -304,6 +297,9 @@ footer{
 	padding: 4%;
 
 }
+.quiquequoi{
+	min-height: 200px;
+}
 
 /****************************************************************************************************
 ***********************************************EQUIPE************************************************
@@ -414,65 +410,6 @@ textarea.form-control{
 	background: #e6e6e6;
 }
 
-
-/* .modal-transparent */
-
-.modal-transparent {
-  background: transparent;
-}
-.modal-transparent .modal-content {
-  background: transparent;
-}
-.modal-backdrop.modal-backdrop-transparent {
-  background: #ffffff;
-}
-.modal-backdrop.modal-backdrop-transparent.in {
-  opacity: .9;
-  filter: alpha(opacity=90);
-}
-
-/* .modal-fullscreen */
-
-.modal-fullscreen {
-  background: transparent;
-}
-.modal-fullscreen .modal-content {
-  background: transparent;
-  border: 0;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-.modal-backdrop.modal-backdrop-fullscreen {
-  background: #ffffff;
-}
-.modal-backdrop.modal-backdrop-fullscreen.in {
-  opacity: .97;
-  filter: alpha(opacity=97);
-}
-
-/* .modal-fullscreen size: we use Bootstrap media query breakpoints */
-
-.modal-fullscreen .modal-dialog {
-  margin: 0;
-  margin-right: auto;
-  margin-left: auto;
-  width: 100%;
-}
-@media (min-width: 768px) {
-  .modal-fullscreen .modal-dialog {
-    width: 750px;
-  }
-}
-@media (min-width: 992px) {
-  .modal-fullscreen .modal-dialog {
-    width: 970px;
-  }
-}
-@media (min-width: 1200px) {
-  .modal-fullscreen .modal-dialog {
-     width: 1170px;
-  }
-}
 
 
 

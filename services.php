@@ -8,7 +8,7 @@
     <meta content="Fargeaudou Sacha" name="author">
     <title>Accueil</title>
 
-    <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
 
@@ -39,7 +39,7 @@
          <img src="images/branding.jpg" width="430" height="270">
         </div>
            <div class="col-md-4">
-          <h2 class="vert"><strong>Branding</strong></h2>
+          <h2 class="vert gras">Branding</h2>
           <h3 class="orange">Charte graphique - Logo</h3>
           <p class="body">Formés aux techniques de communication et de marketing, notre équipe vous accompagnera dans la définition de votre marque. Elle dévellopera avec vous votre identité et saura vous conseiller pour mettre en place une communication efficaceet adaptée à votre cible. Concevoir une identité visuelle et réussir à traduire fidèlement
           la personnalité, les valeurs et l'histoire de votre entreprise est au coeur de nos engagements.</p>
@@ -51,7 +51,7 @@
         <!--**************GRAPHISME************-->
           <div class="row pad2">
            <div class="col-md-4 col-md-offset-2 right">
-          <h2 class="vert"><strong>Graphisme</strong></h2>
+          <h2 class="vert gras">Graphisme</h2>
           <h3 class="orange">Conception - Digital - Print</h3>
           <br/>
           <p class="body">Notre graphiste prendra soin de dialoguer avec vous afin de parvenir à un
@@ -72,7 +72,7 @@
          <img src="images/programmation-web.jpg" width="430" height="270">
         </div>
            <div class="col-md-4">
-          <h2 class="vert"><strong>Développement</strong></h2>
+          <h2 class="vert gras">Développement</h2>
           <h3 class="orange">Web - Mobile</h3>
           <p class="body">Spécialiste du développement de sites web et d'applications, notre développeur
           vous accompagne de la conception au lancement de votre site internet.
@@ -86,7 +86,7 @@
             <!--*************REFERENCEMENT************-->
               <div class="row pad2">
            <div class="col-md-4 col-md-offset-2 right">
-          <h2 class="vert"><strong>Référencement</strong></h2>
+          <h2 class="vert gras">Référencement</h2>
           <h3 class="orange">SEO - Adwords</h3>
           <br/>
           <p class="body">La présence sur les moteurs de recherche pouvant conditionner la réussite d'un projet

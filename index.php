@@ -7,7 +7,7 @@
     <meta content="Lork, collectif freelance, web developpeur et web design" name="description">
     <meta content="Fargeaudou Sacha" name="author">
     <title>Accueil</title>
-    <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
 
@@ -27,6 +27,7 @@
        <div id="slogan-accueil">
          <h1 class="orange">LORK, vos projets sont les nôtres.</h1>
          <p class="white">LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
+
        </div>
     </header>
 
@@ -34,7 +35,7 @@
       <div class="row info">
         <div class="col-md-4 col-sm-12">
         <h3 class="vert">Qui sommes nous ?</h3>
-          <p>
+          <p class="quiquequoi">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -42,10 +43,12 @@
            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
+                      <a href="equipe.php" class="btn-orange">En savoir plus</a>
+
         </div>
         <div class="col-md-4 col-sm-12">
         <h3 class="vert">Qui faisons nous ?</h3>
-          <p>
+          <p class="quiquequoi">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -53,10 +56,12 @@
           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
+                      <a href="projet.php" class="btn-orange">En savoir plus</a>
+
         </div>
         <div class="col-md-4 col-sm-12">
         <h3 class="vert">Notre philosophie ?</h3>
-          <p>
+          <p class="quiquequoi">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -64,6 +69,8 @@
           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
+                      <a href="services.php" class="btn-orange">En savoir plus</a>
+
         </div>
       </div>
     </section>
