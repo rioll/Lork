@@ -10,6 +10,8 @@
 
     <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+
     <link href="css/main.css" rel="stylesheet">
 
     <link href="images/ico.png" rel="shortcut icon">
@@ -35,10 +37,10 @@
       </div>  
       <div class="row pad2 text-center">
         <div class="col-md-4 col-sm-12">
-          <img src="images/emilien.png" class="roundedO">
+          <img src="images/emilien.png" class="roundedO ">
           <h3 class="orange">Emilien</h3>
-          <p>Réfèrenceur</p>
-          <p class="pad2">
+          <p class="text-vingt">Réfèrenceur</p>
+          <p class="pad2 wow bounceInUp animated text-dix">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -49,10 +51,10 @@
           <a href="" class="btn-orange">En savoir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
-        <img src="images/Sacha.png" class="roundedV">
+        <img src="images/Sacha.png" class="roundedV" >
           <h3 class="vert">Sacha</h3>
-          <p>Développeur</p>
-          <p class="pad2">
+          <p class="text-vingt">Développeur</p>
+          <p class="pad2 wow bounceInUp animated text-dix">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -63,10 +65,10 @@
           <a href="sachafargeaudou.fr" class="btn-vert">En savoir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
-        <img src="images/achille.png" class="roundedB">
+        <img src="images/achille.png" class="roundedB ">
           <h3 class="bleu">Achille</h3>
-          <p>Graphiste</p>
-          <p class="pad2">
+          <p class="text-vingt">Graphiste</p>
+          <p class="pad2 wow bounceInUp animated text-dix">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -79,12 +81,10 @@
       </div>
       <div class="row pad2">
           <div class="col-md-12 col-sm-12 text-center">
-            <p class="orange">Pour toute demande de devis ou d'informations complémentaire, n'hésitez pas à nous contacter.</p>
+            <p class="orange text-sept">Pour toute demande de devis ou d'informations complémentaire, n'hésitez pas à nous contacter.</p>
           </div>
-      </div>
-      <div class="row pad2">
           <div class="col-md-12 col-sm-12 text-center pad2">
-            <a href="contact.php" class="btn-vert">Faire une demande de devis</a>
+            <a href="contact.php" class="btn-devis">Faire une demande de devis</a>
           </div>
       </div>
     </section>
@@ -98,6 +98,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="js/animate.js"></script>
 
 
    

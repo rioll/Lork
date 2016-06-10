@@ -18,7 +18,7 @@ h2{
 
 h3{
 	font-family: 'Dosis', sans-serif;
-	font-size: 1.7em;
+	font-size: 2em;
 }
 
 a:hover{
@@ -110,6 +110,17 @@ footer{
 
 }
 														/*element*/
+.btn-devis {
+	background-color: #9fee00;
+    color: white;
+	padding: 12px;
+
+}
+
+.btn-devis:hover{
+	color:white;
+
+}
 .btn-vert {
 	background-color: #9fee00;
     color: white;
@@ -122,8 +133,31 @@ footer{
 	color:white;
 
 }
+.btn-bleu {
+	background-color: #009999;
+    color: white;
+	padding: 12px;
+	border-radius: 50px;
 
+}
+
+.btn-bleu:hover{
+	color:white;
+
+}
 .btn-orange {
+	background-color: #cc5200;
+    color: white;
+	padding: 12px;
+	border-radius: 50px;
+
+}
+
+.btn-orange:hover{
+	color:white;
+}
+
+.btn-orange-light {
 
     color: #cc5200;
 	border-radius: 10px;
@@ -133,7 +167,7 @@ footer{
 
 }
 
-.btn-orange:hover{
+.btn-orange-light:hover{
 		color: white;
 		background: #cc5200;
 }
@@ -147,9 +181,9 @@ footer{
     overflow: hidden;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
-    border-radius: 50px;
-    width: 90px;
-    height: 90px;
+   border-radius: 60px;
+    width: 120px;
+    height: 120px;
     border: 3px solid  #009999;
 
 }
@@ -157,9 +191,9 @@ footer{
     overflow: hidden;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
-    border-radius: 50px;
-    width: 90px;
-    height: 90px;
+   border-radius: 60px;
+    width: 120px;
+    height: 120px;
     border: 3px solid  #9fee00;
 
 }
@@ -167,16 +201,28 @@ footer{
     overflow: hidden;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
-    border-radius: 50px;
-    width: 90px;
-    height: 90px;
+    border-radius: 60px;
+    width: 120px;
+    height: 120px;
     border: 3px solid  #cc5200;
 
 }
 .gras{
 	font-weight: 600;
-}
 
+}
+.text-vingt{
+	font-size: 1.2em;
+
+}
+.text-dix{
+		font-size: 1.1em;
+
+}
+.text-sept{
+		font-size: 1.7em;
+
+}
 /****************************************************************************************************
 ***********************************************MENU**************************************************
 ****************************************************************************************************/

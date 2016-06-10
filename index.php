@@ -43,7 +43,7 @@
            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
-                      <a href="equipe.php" class="btn-orange">En savoir plus</a>
+                      <a href="equipe.php" class="btn-orange-light">En savoir plus</a>
 
         </div>
         <div class="col-md-4 col-sm-12">
@@ -56,7 +56,7 @@
           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
-                      <a href="projet.php" class="btn-orange">En savoir plus</a>
+                      <a href="projet.php" class="btn-orange-light">En savoir plus</a>
 
         </div>
         <div class="col-md-4 col-sm-12">
@@ -69,7 +69,7 @@
           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
-                      <a href="services.php" class="btn-orange">En savoir plus</a>
+                      <a href="services.php" class="btn-orange-light">En savoir plus</a>
 
         </div>
       </div>
@@ -104,7 +104,7 @@
       </div>
       <div class="row pad2">
           <div class="col-md-12 col-sm-12 text-center pad2">
-            <a href="contact.php" class="btn-vert">Faire une demande de devis</a>
+            <a href="contact.php" class="btn-devis">Faire une demande de devis</a>
           </div>
       </div>
 
