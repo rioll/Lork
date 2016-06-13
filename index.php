@@ -54,7 +54,7 @@ coller au mieux avec vos attentes tout en apportant notre savoir faire et notre 
         <h3 class="vert">Notre philosophie ?</h3>
           <p class="quiquequoi">
           Basée sur l’écoute, notre approche place chacun de nos clients au centre des projets
-sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de votre public et la réalisation de vos objectifs dans le respect de vos valeurs. Chez LORK, chaque projet est géré par un interlocuteur unique qui se dévouera corps et âmes pour faciliter les échanges et vous procurer cette immense satisfaction d’une communication réussie
+sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de votre public et la réalisation de vos objectifs dans le respect de vos valeurs. Chez LORK, chaque projet est géré par un interlocuteur unique qui se dévouera corps et âmes pour faciliter les échanges et vous procurer cette immense satisfaction d’une communication réussie.
           </p>
                       <a href="services.php" class="btn-orange-light">En savoir plus</a>
 

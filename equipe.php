@@ -41,12 +41,10 @@
           <h3 class="orange">Emilien</h3>
           <p class="text-vingt">Référenceur</p>
           <p class="pad2 wow bounceInUp animated text-dix quiquequoi">
-           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+       Spécialisé en référencement, Emilien pourra optimiser votre site web afin d'acquérir la meilleure position sur les moteurs de recherche. 
+       Il vous accompagnera et conseillera afin d'obtenir un site propre et optimisé, mais aussi vous permettra d'effectuer un diagnostic via Google Analytics pour trouver les points forts et
+       les points faibles de votre site internet. Vous pourrez avoir un véritable suivi en temps réel de votre site web via Google Analytics. 
+       Cette double compétence en intégrateur web lui permettra de vous accompagner sur vos projets de créations de sites vitrine, e-commerce...
           </p>
           <a href="" class="btn-orange">En savoir plus</a>
         </div>
