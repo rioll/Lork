@@ -54,7 +54,7 @@
         
         <div class="portfolio web" data-cat="web">
           <div class="portfolio-wrapper">           
-            <img src="images/portfolios/web/4.jpg" alt="" />
+            <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal"> <img src="images/portfolios/web/4.jpg" alt="" /></a>
             <div class="label">
               <div class="label-text">
                 <a class="text-title">Sonor's Design</a>
@@ -89,6 +89,7 @@
        <?php require 'footer.php';?>
     </footer>
     
+       <?php require 'modal.php';?>
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
