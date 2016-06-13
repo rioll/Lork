@@ -149,7 +149,28 @@ footer {
 	color: #fff;
 	background: #cc5200;
 }
+.btn-bleu-light {
+	color: #099;
+	border-radius: 10px;
+	border: 2px solid #099;
+	padding: 10px 12px;
+}
 
+.btn-bleu-light:hover {
+	color: #fff;
+	background: #099;
+}
+.btn-vert-light {
+	color: #9fee00;
+	border-radius: 10px;
+	border: 2px solid #9fee00;
+	padding: 10px 12px;
+}
+
+.btn-vert-light:hover {
+	color: #fff;
+	background: #9fee00;
+}
 .row {
 	margin: 0;
 }
@@ -298,7 +319,7 @@ footer {
 /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ 
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#739fee00',endColorstr='#73009999',GradientType=1);*/
 /* IE6-9 */
-	height: 60vh;
+	height: 70vh;
 	position: relative;
 }
 

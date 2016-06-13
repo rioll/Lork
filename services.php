@@ -46,7 +46,7 @@
                 <div class="row pad2">
                         <div class="col-md-4 col-md-offset-2 right">
                                 <h2 class="vert gras">Graphisme</h2>
-                                <h3 class="orange">Conception - Digital - Print</h3><br>
+                                <h3 class="orange">Conception - Digital - Print</h3>
                                 <p class="body">Notre graphiste prendra soin de dialoguer avec vous
                                 afin de parvenir à un résultat à la fois personnalisé et
                                 professionel. Projet de site web, application mobile, de création
@@ -74,7 +74,7 @@
                 <div class="row pad2">
                         <div class="col-md-4 col-md-offset-2 right">
                                 <h2 class="vert gras">Référencement</h2>
-                                <h3 class="orange">SEO - Adwords</h3><br>
+                                <h3 class="orange">SEO - Adwords</h3>
                                 <p class="body">La présence sur les moteurs de recherche pouvant
                                 conditionner la réussite d'un projet notre expert du référencement
                                 identifiera avec vous vos besoins et la stratégie à adopter. Nous

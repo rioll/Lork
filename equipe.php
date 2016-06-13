@@ -42,11 +42,11 @@
           <p class="text-vingt">Référenceur</p>
           <p class="pad2 wow bounceInUp animated text-dix quiquequoi">
        Spécialisé en référencement, Emilien pourra optimiser votre site web afin d'acquérir la meilleure position sur les moteurs de recherche. 
-       Il vous accompagnera et conseillera afin d'obtenir un site propre et optimisé, mais aussi vous permettra d'effectuer un diagnostic via Google Analytics pour trouver les points forts et
-       les points faibles de votre site internet. Vous pourrez avoir un véritable suivi en temps réel de votre site web via Google Analytics. 
-       Cette double compétence en intégrateur web lui permettra de vous accompagner sur vos projets de créations de sites vitrine, e-commerce...
+       Il vous accompagnera et conseillera afin d'obtenir un site propre et optimisé, mais aussi vous permettra d'effectuer un diagnostic en temps réel via Google Analytics pour trouver les points forts et
+       les points faibles de votre site internet. 
+       Sa double compétence en intégration web lui permettra de vous accompagner sur vos projets de créations de sites vitrine, e-commerce...
           </p>
-          <a href="" class="btn-orange">En savoir plus</a>
+          <a href="" class="btn-orange-light">En voir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
         <img src="images/Sacha.jpg" class="roundedV" >
@@ -55,7 +55,7 @@
           <p class="pad2 wow bounceInUp animated text-dix quiquequoi">
            Habitant de l'Ain, son objectif est de vous proposer un code simple, fonctionnel et maintenable dans le temps. Il saura vous guider pour définir au mieux vos besoins et contraintes technique pour vos projets. En effet sa double compétence en développement et en design, lui permet de comprendre les enjeux d'un site attrayant, tant sur le plan esthétique que technique.
           </p>
-          <a href="http://sachafargeaudou.fr" class="btn-vert" target="blank">En savoir plus</a>
+          <a href="http://sachafargeaudou.fr" class="btn-vert-light" target="blank">En voir plus</a>
         </div>
         <div class="col-md-4 col-sm-12">
         <img src="images/achille.jpg" class="roundedB ">
@@ -67,7 +67,7 @@
             votre identité visuelle et définira avec vous les supports de
             communication adapté à votre projet et à vos attentes.
           </p>
-          <a href="http://achillepicarony.ultra-book.com" class="btn-bleu" target="blank">En savoir plus</a>
+          <a href="http://achillepicarony.ultra-book.com" class="btn-bleu-light" target="blank">En voir plus</a>
         </div>
       </div>
       <div class="row pad2">
