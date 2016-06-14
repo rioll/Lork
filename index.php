@@ -10,6 +10,7 @@
     <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
+        <script src="js/modernizr.custom.97074.js"></script>
 
     <link href="images/ico.png" rel="shortcut icon">
 
@@ -69,21 +70,42 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
       </div>
       
       <div class="row">
-        <div class="col-md-6 col-sm-12 right">
-          <a href="services.php"><img src="images/branding.jpg" width="430" height="270"></a>
+        <ul id="da-thumbs" class="da-thumbs">
+          <li>
+            <a href="services.php">
+                <img src="images/branding.jpg" width="430" height="270">
+                <div>
+                <span><b class="vert">Branding:</b> Nom, slogan, charte graphique ...</span>
+
+                </div>
+            </a>
+          </li>
+           <li>
+            <a href="services.php">
+                <img src="images/graphisme.jpg" width="430" height="270">
+                <div>
+                  <span><b class="vert">Graphisme:</b> Web, Print ...</span>
+                </div>
+            </a>
+          </li>
+           <li>
+            <a href="services.php">
+                <img src="images/programmation-web.jpg" width="430" height="270">
+                <div>
+                  <span><b class="vert">Programation:</b> Site vitrine, CMS, application ...</span>
+                </div>
+            </a>
+          </li>
+           <li>
+            <a href="services.php">
+                <img src="images/seo.jpg" width="430" height="270">
+                <div>
+                 <span><b class="vert">Réfèrencement:</b> Naturel, adwords ...</span>
+                </div>
+            </a>
+          </li>
+        </ul>
         </div>
-        <div class="col-md-6 col-sm-12">
-          <a href="services.php"><img src="images/graphisme.jpg" width="430" height="270"></a>
-        </div>
-      </div>  
-      <div class="row pad2">
-        <div class="col-md-6 col-sm-12 right">
-          <a href="services.php"><img src="images/programmation-web.jpg" width="430" height="270"></a>
-        </div>
-        <div class="col-md-6 col-sm-12 ">
-          <a href="services.php"><img src="images/seo.jpg" width="430" height="270"></a>
-        </div>
-      </div> 
       <div class="row pad2">
           <div class="col-md-12 col-sm-12 text-center">
             <p class="orange text-vingt">LORK sait bien s'entourer, c'est pouquoi  il est aussi possible de répondre à vos besoins de production audiovisuelle.</p>
@@ -106,8 +128,15 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-     <!-- Contact Form JavaScript -->
+        <script type="text/javascript" src="js/jquery.hoverdir.js"></script>  
 
+<script type="text/javascript">
+      $(function() {
+      
+        $(' #da-thumbs > li ').each( function() { $(this).hoverdir(); } );
+
+      });
+    </script>
    
   </body>
 </html>

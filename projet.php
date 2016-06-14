@@ -85,7 +85,7 @@
       </div>  
       
     </section>
-    <footer class="bg-white">
+    <footer class="bg-gray">
        <?php require 'footer.php';?>
     </footer>
     

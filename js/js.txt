@@ -1,0 +1,4 @@
+modernizer+hoverdir => hover accueil
+mixtiup => projet
+contact me + valdiation => contact
+appear=> ensemble du site
