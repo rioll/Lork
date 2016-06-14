@@ -56,7 +56,7 @@
               <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal"> <img src="images/oby.png" alt="" /></a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">Obygo</a>
+                  <a class="text-title">Application / Obygo</a>
                 </div>
                 <div class="label-bg"></div>
               </div>
@@ -69,7 +69,7 @@
               <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal"> <img src="images/noob2.png" alt="" /></a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">Noob</a>
+                  <a class="text-title">Application / Noob</a>
                 </div>
                 <div class="label-bg"></div>
               </div>
@@ -81,7 +81,7 @@
               <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal"> <img src="images/jerome.png" alt="" /></a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">Studio3delta</a>
+                  <a class="text-title">Site / Studio3delta</a>
                 </div>
                 <div class="label-bg"></div>
               </div>
@@ -93,7 +93,7 @@
               <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal"> <img src="images/Wild-poster.jpg" alt="" /></a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">Wild</a>
+                  <a class="text-title">Poster / Wild</a>
                 </div>
                 <div class="label-bg"></div>
               </div>
@@ -105,7 +105,7 @@
               <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal"> <img src="images/sport.jpg" alt="" /></a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">E-Sport</a>
+                  <a class="text-title">Logo / E-Sport</a>
                 </div>
                 <div class="label-bg"></div>
               </div>
@@ -117,7 +117,7 @@
               <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal"> <img src="images/tatoo1.jpg" alt="" /></a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">Salon de tatouage</a>
+                  <a class="text-title">Poster / Salon de tatouage</a>
                 </div>
                 <div class="label-bg"></div>
               </div>
@@ -129,7 +129,7 @@
               <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal"> <img src="images/Obygo-tript.jpg" alt="" /></a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">Triptyque</a>
+                  <a class="text-title">Triptyque / Obygo</a>
                 </div>
                 <div class="label-bg"></div>
               </div>

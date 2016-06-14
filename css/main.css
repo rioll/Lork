@@ -97,7 +97,12 @@ footer {
 .right {
 	text-align: end;
 }
+@media (max-width: 991px) {
 
+	.air{
+		margin-bottom: 10%;
+	}
+}
 /*element*/
 .btn-devis {
 	background-color: #9fee00;
@@ -248,7 +253,12 @@ footer {
 	display: inline;
 	padding: 5%;
 }
-
+@media (max-width: 768px) {
+	#navigation ul li {
+		display: inline;
+		padding: 3%;
+	}
+}
 .active {
 	border-bottom: 2px solid #cc5200;
 	padding-bottom: 1%;

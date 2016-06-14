@@ -36,7 +36,7 @@
         <h1 class="bleu">Notre équipe</h1>
       </div>  
       <div class="row pad2 text-center">
-        <div class="col-md-4 col-sm-12">
+        <div class="col-md-4 col-sm-12 air">
           <img src="images/emilien.jpg" class="roundedO ">
           <h3 class="orange">Emilien</h3>
           <p class="text-vingt">Référenceur</p>
@@ -45,9 +45,9 @@
        Il vous accompagnera et conseillera afin d'obtenir un site optimisé, et vous permettra de visualiser en temps réel le traffic que génère votre dispotif.
        Sa double compétence en intégration web lui permettra de vous accompagner sur tout type de projets allant de la créations de sites vitrine, au site e-commerce ...
           </p>
-          <a href="" class="btn-orange-light">En voir plus</a>
+          <a href="http://lork.fr/emilien-flamein" class="btn-orange-light" target="blank">En voir plus</a>
         </div>
-        <div class="col-md-4 col-sm-12">
+        <div class="col-md-4 col-sm-12 air">
         <img src="images/Sacha.jpg" class="roundedV" >
           <h3 class="vert">Sacha</h3>
           <p class="text-vingt">Développeur</p>
@@ -56,7 +56,7 @@
           </p>
           <a href="http://sachafargeaudou.fr" class="btn-vert-light" target="blank">En voir plus</a>
         </div>
-        <div class="col-md-4 col-sm-12">
+        <div class="col-md-4 col-sm-12 air">
         <img src="images/achille.jpg" class="roundedB ">
           <h3 class="bleu">Achille</h3>
           <p class="text-vingt">Graphiste</p>
@@ -70,7 +70,7 @@ des solutions esthétiques et ergonomiques sur vos projets print, web et mobile.
         </div>
       </div>
       <div class="row pad2">
-          <div class="col-md-12 col-sm-12 text-center">
+          <div class="col-md-12 col-sm-12 text-center air">
             <p class="orange text-sept">Pour toute demande de devis ou d'informations complémentaire, n'hésitez pas à nous contacter.</p>
           </div>
           <div class="col-md-12 col-sm-12 text-center pad2">
