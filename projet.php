@@ -124,6 +124,17 @@
             </div>
           </div>   
       
+        <div class="portfolio divers" data-cat="divers">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal"> <img src="images/Obygo-tript.jpg" alt="" /></a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">Triptyque</a>
+                </div>
+                <div class="label-bg"></div>
+              </div>
+            </div>
+          </div>   
       
       
 
@@ -155,7 +166,7 @@
             filter: '.filter' 
           },
           load: {
-            filter: '.app'  
+            filter: '.app, .divers, .logoo, .web'  
           },
           animation: {
             duration: 1000,
