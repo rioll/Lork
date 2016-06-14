@@ -11,9 +11,13 @@
         <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet'
         type='text/css'>
         <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+        <link href="css/animate.css" rel="stylesheet">
         <link href="css/main.css" rel="stylesheet">
         <link href="images/ico.png" rel="shortcut icon">
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 
+        elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -25,13 +29,13 @@
                 <?php $page = 'services'; require 'menu.php';?>
         </header>
         <section id="information-services">
-                <div class="row pad2">
+                <div class="row pad3">
                         <h1 class="bleu text-center">Nos services</h1>
-                </div><!--**************BRANDING************-->
+                </div>
+                <!--**************BRANDING************-->
                 <div class="row pad2">
-                        <div class="col-md-6 right"><img height="270" src="images/branding.jpg"
-                        width="430"></div>
-                        <div class="col-md-4">
+                        <div class="col-md-6 right wow bounceInRight animated"><img height="270" src="images/branding.jpg" width="430"></div>
+                        <div class="col-md-4 wow bounceInLeft animated">
                                 <h2 class="vert gras">Branding</h2>
                                 <h3 class="orange">Charte graphique - Logo</h3>
                                 <p class="body">Formés aux techniques de communication et de
@@ -42,9 +46,10 @@
                                 traduire fidèlement la personnalité, les valeurs et l'histoire de
                                 votre entreprise est au coeur de nos engagements.</p>
                         </div>
-                </div><!--**************GRAPHISME************-->
+                </div>
+                <!--**************GRAPHISME************-->
                 <div class="row pad2">
-                        <div class="col-md-4 col-md-offset-2 right">
+                        <div class="col-md-4 col-md-offset-2 right wow bounceInRight animated">
                                 <h2 class="vert gras">Graphisme</h2>
                                 <h3 class="orange">Conception - Digital - Print</h3>
                                 <p class="body">Notre graphiste prendra soin de dialoguer avec vous
@@ -54,9 +59,9 @@
                                 attention à chacun er mettrons tout en oeuvre pour répondre à vos
                                 exigences.</p>
                         </div>
-                        <div class="col-md-6"><img height="270" src="images/graphisme.jpg" width=
-                        "430"></div>
-                </div><!--**************DEV************-->
+                        <div class="col-md-6 wow bounceInLeft animated"><img height="270" src="images/graphisme.jpg" width="430"></div>
+                </div>
+                <!--**************DEV************-->
                 <div class="row pad2">
                         <div class="col-md-6 right"><img height="270" src=
                         "images/programmation-web.jpg" width="430"></div>
@@ -70,7 +75,8 @@
                                 définir avec vous un projet sur mesure en adéquation avec vos
                                 besoins, objectifs et budget.</p>
                         </div>
-                </div><!--*************REFERENCEMENT************-->
+                </div>
+                <!--*************REFERENCEMENT************-->
                 <div class="row pad2">
                         <div class="col-md-4 col-md-offset-2 right">
                                 <h2 class="vert gras">Référencement</h2>
@@ -80,18 +86,16 @@
                                 identifiera avec vous vos besoins et la stratégie à adopter. Nous
                                 rechercherons les mots clés à mettre en avant pour que votre site
                                 puisse avoir la meilleure position possible. Le référencement est
-                                un point important pour votre projet, avoir un balisage sémantique
-                                propre, un contenu de qualité.</p>
+                                le point final de tout projet mené à bien, et vous offre la visibilité que vous mérité.</p>
                                 <p></p>
                         </div>
-                        <div class="col-md-6"><img height="270" src="images/seo.jpg" width=
-                        "430"></div>
+                        <div class="col-md-6"><img height="270" src="images/seo.jpg" width="430"></div>
                 </div>
                 <div class="row pad2">
                         <div class="col-md-12 col-sm-12 text-center">
                                 <p class="orange">Lork sait bien s'entourer, c'est pourquoi il est
                                 aussi possible de répondre à vos besoins de production
-                                audiovisuelle.</p>
+                                audiovisuelle et 3D.</p>
                         </div>
                 </div>
                 <div class="row pad2">
@@ -109,6 +113,8 @@
         <!-- Include all compiled plugins (below), or include individual files as needed -->
          
         <script src="bower_components/bootstrap/dist/js/bootstrap.min.js">
-        </script> <!--<script src="js/sticky.js"></script>-->
+        </script>
+         <script src="js/appear.js">
+        </script>
 </body>
 </html>
