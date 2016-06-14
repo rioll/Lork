@@ -32,7 +32,7 @@
 
     <section id="information-equipe">
 
-      <div class="row pad2 text-center">
+      <div class="row pad3 text-center">
         <h1 class="bleu">Notre équipe</h1>
       </div>  
       <div class="row pad2 text-center">
@@ -41,10 +41,9 @@
           <h3 class="orange">Emilien</h3>
           <p class="text-vingt">Référenceur</p>
           <p class="pad2 wow bounceInUp animated text-dix quiquequoi">
-       Spécialisé en référencement, Emilien pourra optimiser votre site web afin d'acquérir la meilleure position sur les moteurs de recherche. 
-       Il vous accompagnera et conseillera afin d'obtenir un site propre et optimisé, mais aussi vous permettra d'effectuer un diagnostic en temps réel via Google Analytics pour trouver les points forts et
-       les points faibles de votre site internet. 
-       Sa double compétence en intégration web lui permettra de vous accompagner sur vos projets de créations de sites vitrine, e-commerce...
+       Venant du Nord, Emilien pourra optimiser votre site web afin d'acquérir la meilleure position sur les moteurs de recherche. 
+       Il vous accompagnera et conseillera afin d'obtenir un site optimisé, et vous permettra de visualiser en temps réel le traffic que génère votre dispotif.
+       Sa double compétence en intégration web lui permettra de vous accompagner sur tout type de projets allant de la créations de sites vitrine, au site e-commerce ...
           </p>
           <a href="" class="btn-orange-light">En voir plus</a>
         </div>
@@ -53,7 +52,7 @@
           <h3 class="vert">Sacha</h3>
           <p class="text-vingt">Développeur</p>
           <p class="pad2 wow bounceInUp animated text-dix quiquequoi">
-           Habitant de l'Ain, son objectif est de vous proposer un code simple, fonctionnel et maintenable dans le temps. Il saura vous guider pour définir au mieux vos besoins et contraintes technique pour vos projets. En effet sa double compétence en développement et en design, lui permet de comprendre les enjeux d'un site attrayant, tant sur le plan esthétique que technique.
+           Habitant de l'Ain, son objectif est de vous proposer un code simple, fonctionnel et maintenable dans le temps. Il saura vous guider pour définir au mieux vos besoins et contraintes techniques pour vos projets. En effet sa double compétence en développement et en design, lui permet de comprendre les enjeux d'un site attrayant, tant sur le plan esthétique que technique.
           </p>
           <a href="http://sachafargeaudou.fr" class="btn-vert-light" target="blank">En voir plus</a>
         </div>
@@ -62,10 +61,10 @@
           <h3 class="bleu">Achille</h3>
           <p class="text-vingt">Graphiste</p>
           <p class="pad2 wow bounceInUp animated text-dix quiquequoi">
-            Originaire de Corrèze il est en charge de toute la partie design.
-            Passionné d’art graphique il se fera force de proposition pour créer
-            votre identité visuelle et définira avec vous les supports de
-            communication adapté à votre projet et à vos attentes.
+            Originaire de Corrèze, Achille est en charge de la partie graphisme et vous accompagnera dans
+la création d’une identité visuelle qui corresponde à votre image. Son objectif est de parvenir à retranscrire
+ au mieux votre message et votre identité et ses compétences en design lui permettront de vous proposer
+des solutions esthétiques et ergonomiques sur vos projets print, web et mobile.
           </p>
           <a href="http://achillepicarony.ultra-book.com" class="btn-bleu-light" target="blank">En voir plus</a>
         </div>
@@ -89,7 +88,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="js/animate.js"></script>
+    <script src="js/appear.js"></script>
 
 
    

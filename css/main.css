@@ -77,6 +77,10 @@ footer {
 	padding: 2%;
 }
 
+.pad3 {
+	padding: 3%;
+}
+
 .pad10 {
 	padding: 10%;
 }
@@ -180,8 +184,8 @@ footer {
 	-webkit-border-radius: 120px;
 	-moz-border-radius: 120px;
 	border-radius: 120px;
-	width: 220px;
-	height: 220px;
+	width: 200px;
+	height: 200px;
 	border: 3px solid #099;
 }
 
@@ -190,16 +194,16 @@ footer {
 	-webkit-border-radius: 120px;
 	-moz-border-radius: 120px;
 	border-radius: 120px;
-	width: 220px;
-	height: 220px;
+	width: 200px;
+	height: 200px;
 	border: 3px solid #9fee00;
 }
 
 .roundedO {
 	overflow: hidden;
 	-moz-border-radius: 120px;
-	width: 220px;
-	height: 220px;
+	width: 200px;
+	height: 200px;
 	border: 3px solid #cc5200;
 	-webkit-border-radius: 120px;
 	border-radius: 120px;
@@ -350,15 +354,13 @@ footer {
 	max-height: 600px;
 	position: relative;
 	margin: 20px auto;
-	padding: 0;
 }
 .da-thumbs li {
 	float: left;
 	margin: 5px;
-	background: #fff;
 	padding: 8px;
 	position: relative;
-	box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+	background: rgb(255, 255, 255);
 }
 .da-thumbs li a,
 .da-thumbs li a img {
@@ -377,14 +379,11 @@ footer {
 }
 .da-thumbs li a div span {
 	display: block;
-	padding: 10px 0;
-	margin: 40px 20px 20px 20px;
-	text-transform: uppercase;
-	font-weight: normal;
 	color: rgba(255,255,255,0.9);
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
-	border-bottom: 1px solid rgba(255,255,255,0.5);
-	box-shadow: 0 1px 0 rgba(0,0,0,0.1), 0 -10px 0 rgba(255,255,255,0.3);
+	font-weight: normal;
+	text-transform: initial;
+	text-align: center;
+	margin: 25% 20% 25% 20%;
 }
 /****************************************************************************************************
 ***********************************************EQUIPE************************************************
@@ -408,7 +407,9 @@ footer {
 	width: 65%;
 	margin: auto;
 }
-
+#information-projets{
+	height: 100vh;
+}
 .vignette-projet {
 	width: 100%;
 }

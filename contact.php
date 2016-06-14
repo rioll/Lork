@@ -26,7 +26,7 @@
                 <?php $page = 'contact'; require 'menu.php';?>
         </header>
         <section id="information-equipe">
-                <div class="row pad2 text-center">
+                <div class="row pad3 text-center">
                         <h1 class="bleu">Nous contacter</h1>
                 </div>
                 <div class="container-fluid">

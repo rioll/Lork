@@ -35,55 +35,100 @@
 
    
     <section id="information-projets">
-      <div class="row pad2 ">
+      <div class="row pad3 ">
         <h1 class="bleu text-center">Nos projets</h1>
       </div> 
 
     <div class="container">
 
       <ul id="filters" class="clearfix">
-        <li><span class="filter active" data-filter=".app, .site, .divers, .logo, .web">All</span></li>
+        <li><span class="filter active" data-filter=".app, .divers, .logoo, .web">Tous</span></li>
         <li><span class="filter" data-filter=".app">Application</span></li>
-        <li><span class="filter" data-filter=".site">Site</span></li>
-        <li><span class="filter" data-filter=".divers">Divers</span></li>
-        <li><span class="filter" data-filter=".logo">Logo</span></li>
+         <li><span class="filter" data-filter=".logoo">Logo</span></li>
         <li><span class="filter" data-filter=".web">Web</span></li>
+        <li><span class="filter" data-filter=".divers">Divers</span></li>     
       </ul>
 
       <div id="portfoliolist">
         
-        <div class="portfolio web" data-cat="web">
-          <div class="portfolio-wrapper">           
-            <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal"> <img src="images/portfolios/web/4.jpg" alt="" /></a>
-            <div class="label">
-              <div class="label-text">
-                <a class="text-title">Sonor's Design</a>
+          <div class="portfolio app" data-cat="app">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal"> <img src="images/oby.png" alt="" /></a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">Obygo</a>
+                </div>
+                <div class="label-bg"></div>
               </div>
-              <div class="label-bg"></div>
             </div>
-          </div>
-        </div>        
-        
-        <div class="portfolio card" data-cat="card">
-          <div class="portfolio-wrapper">     
-            <img src="images/portfolios/card/1.jpg" alt="" />
-            <div class="label">
-              <div class="label-text">
-                <a class="text-title">Typography Company</a>
-               <!-- <span class="text-category">Business card</span>-->
+          </div>        
+          
+         
+          <div class="portfolio app" data-cat="app">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal"> <img src="images/noob2.png" alt="" /></a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">Noob</a>
+                </div>
+                <div class="label-bg"></div>
               </div>
-              <div class="label-bg"></div>
             </div>
-          </div>
-        </div>  
-              
-                           
-        
-      </div>
-    
-  </div>
-      </div>  
+          </div>   
+
+          <div class="portfolio web logoo" data-cat="web logoo">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal"> <img src="images/jerome.png" alt="" /></a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">Studio3delta</a>
+                </div>
+                <div class="label-bg"></div>
+              </div>
+            </div>
+          </div>   
+
+           <div class="portfolio divers" data-cat="divers">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal"> <img src="images/Wild-poster.jpg" alt="" /></a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">Wild</a>
+                </div>
+                <div class="label-bg"></div>
+              </div>
+            </div>
+          </div>   
+
+          <div class="portfolio logoo" data-cat="logoo">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal"> <img src="images/sport.jpg" alt="" /></a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">E-Sport</a>
+                </div>
+                <div class="label-bg"></div>
+              </div>
+            </div>
+          </div>   
       
+          <div class="portfolio divers" data-cat="divers">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal"> <img src="images/tatoo1.jpg" alt="" /></a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">Salon de tatouage</a>
+                </div>
+                <div class="label-bg"></div>
+              </div>
+            </div>
+          </div>   
+      
+      
+      
+
+        </div>                                  
+      </div>       
     </section>
     <footer class="bg-gray">
        <?php require 'footer.php';?>
@@ -110,7 +155,7 @@
             filter: '.filter' 
           },
           load: {
-            filter: '.web'  
+            filter: '.app'  
           },
           animation: {
             duration: 1000,
