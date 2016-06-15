@@ -25,7 +25,7 @@
     <![endif]-->
   </head>
   <body>
-
+<?php include_once("analyticstracking.php") ?>
     <header class="header-sticky">
        <?php $page = 'equipe'; require 'menu.php';?>
     </header>
@@ -69,12 +69,12 @@ des solutions esthétiques et ergonomiques sur vos projets print, web et mobile.
           <a href="http://achillepicarony.ultra-book.com" class="btn-bleu-light" target="blank">En voir plus</a>
         </div>
       </div>
-      <div class="row pad2">
+      <div class="row pad5">
           <div class="col-md-12 col-sm-12 text-center air">
             <p class="orange text-sept">Pour toute demande de devis ou d'informations complémentaire, n'hésitez pas à nous contacter.</p>
           </div>
           <div class="col-md-12 col-sm-12 text-center pad2">
-            <a href="contact.php" class="btn-devis">Faire une demande de devis</a>
+            <a href="contact" class="btn-devis">Faire une demande de devis</a>
           </div>
       </div>
     </section>

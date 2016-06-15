@@ -25,6 +25,7 @@
     <![endif]-->
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
         <header class="header-sticky">
                 <?php $page = 'services'; require 'menu.php';?>
         </header>
@@ -40,7 +41,7 @@
                                 <h3 class="orange">Charte graphique - Logo</h3>
                                 <p class="body">Formés aux techniques de communication et de
                                 marketing, notre équipe vous accompagnera dans la définition de
-                                votre marque. Elle dévellopera avec vous votre identité et saura
+                                votre marque. Elle développera avec vous votre identité et saura
                                 vous conseiller pour mettre en place une communication efficace et
                                 adaptée à votre cible. Concevoir une identité visuelle et réussir à
                                 traduire fidèlement la personnalité, les valeurs et l'histoire de
@@ -100,7 +101,7 @@
                 </div>
                 <div class="row pad2">
                         <div class="col-md-12 col-sm-12 text-center pad2">
-                                <a class="btn-vert" href="contact.php">Faire une demande de
+                                <a class="btn-devis" href="contact">Faire une demande de
                                 devis</a>
                         </div>
                 </div>

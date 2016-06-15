@@ -22,12 +22,12 @@
     <![endif]-->
   </head>
   <body>
-
+<?php include_once("analyticstracking.php") ?>
     <header id="header-accueil">
        <?php $page = 'index'; require 'menu.php';?>
        <div id="slogan-accueil">
          <h1 class="gris">Vos projets sont les nôtres.</h1>
-         <p class="white text-vingt">LORK, c'est un groupe de trois freelances passioné, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
+         <p class="white text-vingt">LORK, c'est un groupe de trois freelances passionés, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
 
        </div>
     </header>
@@ -46,7 +46,7 @@ Natifs de trois régions différentes nous nous sommes rencontrés sur les bancs
         <div class="col-md-4 col-sm-12 air">
         <h3 class="vert">Que faisons nous ?</h3>
           <p class="quiquequoi air">
-         Nous vous proposons de développer votre communication de la façon la plus en phase avec votre identité. Nous bason notre approche sur l’écoute et la collaboration afin de
+         Nous vous proposons de développer votre communication de la façon la plus en phase avec votre identité. Nous basons notre approche sur l’écoute et la collaboration afin de
 coller au mieux avec vos attentes tout en apportant notre savoir faire et notre expertise.  Nos compétences vont du branding avec la création d’identité de marque, au développement de site web et d’application en passant par le graphisme avec la création de logo, d’affiche ou encore de bannières publicitaires.
           </p>
                       <a href="projet.php" class="btn-orange-light">En savoir plus</a>
@@ -114,7 +114,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
       </div>
       <div class="row pad3 ">
           <div class="col-md-12 col-sm-12 text-center pad2">
-            <a href="contact.php" class="btn-devis">Faire une demande de devis</a>
+            <a href="contact" class="btn-devis">Faire une demande de devis</a>
           </div>
       </div>
 

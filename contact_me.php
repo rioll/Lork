@@ -16,7 +16,7 @@ $phone = $_POST['phone'];
 $message = $_POST['message'];
 	
 // Create the email and send the message
-$to = 'lork.freelance@gmail.com';  
+$to = 'sacha.fargeaudou@gmail.com';  
 $email_subject = "Website Contact Form:  $name";
 $email_body = "Nouveau message provenant du site.\n\n"."Voici le contenus:\n\nNom: $name\n\nEmail: $email_address\n\nTel: $phone\n\nMessage:\n$message";
 $headers = "From: noreply@lork.com\n"; 

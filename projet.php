@@ -28,7 +28,7 @@
     <![endif]-->
   </head>
   <body>
-
+<?php include_once("analyticstracking.php") ?>
     <header class="header-sticky">
        <?php $page = 'projet'; require 'menu.php';?>
     </header>

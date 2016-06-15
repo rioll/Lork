@@ -80,7 +80,9 @@ footer {
 .pad3 {
 	padding: 3%;
 }
-
+.pad5 {
+	padding: 5%;
+}
 .pad10 {
 	padding: 10%;
 }
@@ -243,6 +245,7 @@ footer {
 
 #navigation ul {
 	text-align: center;
+	padding-left: 0;
 }
 
 #navigation ul a {

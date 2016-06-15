@@ -22,6 +22,7 @@
     <![endif]-->
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
         <header class="header-sticky">
                 <?php $page = 'contact'; require 'menu.php';?>
         </header>
@@ -35,31 +36,26 @@
                                         <form id="contactForm" name="contactForm" novalidate="">
                                                 <div class="form-group wow bounceInUp animated">
                                                         <input class="form-control"
-                                                        data-validation-required-message=
-                                                        "Nom, requis" id="name" placeholder="Nom"
+                                                        data-validation-required-message="Nom, requis" id="name" placeholder="Nom"
                                                         required="" type="text">
                                                         <p class="help-block text-danger"></p>
                                                 </div>
                                                 <div class="form-group wow bounceInRight animated">
                                                         <input class="form-control"
-                                                        data-validation-required-message=
-                                                        "Email, requis" id="email" placeholder=
-                                                        "Email" required="" type="email">
+                                                        data-validation-required-message="Email, requis" id="email" placeholder="Email" required="" type="email">
                                                         <p class="help-block text-danger"></p>
                                                 </div>
                                                 <div class="form-group wow bounceInLeft animated">
                                                         <textarea class="form-control"
-                                                        data-validation-required-message=
-                                                        "Un peu de texte svp" id="message"
+                                                        data-validation-required-message="Un peu de texte svp" id="message"
                                                         placeholder="Message" required=
                                                         ""></textarea>
                                                         <p class="help-block text-danger"></p>
                                                 </div>
                                                 <div class="clearfix"></div>
                                                 <div class="col-lg-12 text-center">
-                                                        <div id="success"></div><button id=
-                                                        "btn-contact" type=
-                                                        "submit">Envoyer</button>
+                                                        <div id="success"></div><button id="btn-contact" type="submit">Envoyer
+                                                        </button>
                                                 </div>
                                         </form>
                                 </div>
