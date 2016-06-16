@@ -108,7 +108,7 @@
           <div class="portfolio divers" data-cat="divers">
             <div class="portfolio-wrapper">           
               <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal"> 
-                <img src="images/Wild-poster.jpg" alt="" />
+                <img src="images/Wild-teeshirt.jpg" alt="" />
               </a>
               <div class="label">
                 <div class="label-text">
