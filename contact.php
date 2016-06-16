@@ -33,9 +33,27 @@
         <h1 class="bleu">Nous contacter
         </h1>
       </div>
-      <div class="container-fluid">
-        <div class="row pad2">
-          <div class="col-md-offset-4 col-md-4 col-sm-offset-4 col-sm-4">
+      <div class="row">
+        <div class="col-md-4 col-md-offset-2">
+          <p class="orange right">Vous pouvez nous contacter pour toute demande de devis ou tout simplement si vous désirez avoir des informations complémentaires concernant LORK et ses services.</p>
+          <p class="orange right">En fonction de votre demande vous serez orienté vers le membre de LORK le plus à même de vous répondre. Un unique interlocuteur sera attribué pour chaque projet
+            afin de faciliter les échanges</p>
+        <section id="contact-geo">
+           <p class="text-center pad2 img-responsive">
+               <img src="images/carte-contact.png" alt"carte_freelance">
+           </p>
+        </section>
+                <p class="bleu right">Répartis dans plusieurs villes, nous pouvons ainsi facilement venir à
+                 votre rencontre dans plusieurs départements et pays francophones.
+                </p>
+         </div>
+
+         <div class="col-md-4">
+          <p class="bleu">Téléphone : 06.29.61.84.72</p>
+          <p class="bleu">Mail : lork.freelance@gmail.com</p>
+          <p class="bleu">Facebook : <a href="" target="blank_">Lork</a>
+          </br>
+                <div class="container-fluid pad0">
             <form id="contactForm" name="contactForm" novalidate="">
               <div class="form-group wow bounceInDown animated">
                 <input class="form-control"
@@ -69,25 +87,16 @@
               <div class="col-lg-12 text-center">
                 <div id="success">
                 </div>
-                <button id="btn-contact" type="submit">Envoyer
+                <button id="btn-contact" class="marg10" type="submit">Envoyer
                 </button>
               </div>
             </form>
           </div>
-        </div>
+           </div>
       </div>
     </section>
-    <section id="contact-geo">
-      <div class="row pad2 text-center">
-        <h2>Répartis dans plusieurs villes, nous pouvons ainsi facilement venir à
-          votre rencontre dans plusieurs départements et pays francophones.
-        </h2>
-      </div>
-      <p class="text-center pad2">
-        <img class="" src="images/carte-contact.png">
-      </p>
-    </section>
-    <footer>
+
+    <footer class="bg-gray">
       <?php require 'footer.php';?>
     </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

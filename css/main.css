@@ -69,6 +69,10 @@ footer {
 }
 
 /*position*/
+.pad0 {
+	padding: 0;
+}
+
 .pad1 {
 	padding: 1%;
 }
@@ -591,4 +595,8 @@ textarea.form-control {
 
 #contact-geo {
 	background: #e6e6e6;
+}
+
+.marg10 {
+	margin-bottom: 10%;
 }
