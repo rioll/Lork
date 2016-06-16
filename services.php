@@ -25,7 +25,8 @@
     <![endif]-->
 </head>
 <body>
-<?php include_once("analyticstracking.php") ?>
+        <?php include_once("curieux.php") ?>
+        <?php include_once("analyticstracking.php") ?>
         <header class="header-sticky">
                 <?php $page = 'services'; require 'menu.php';?>
         </header>

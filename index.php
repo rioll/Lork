@@ -22,7 +22,8 @@
     <![endif]-->
   </head>
   <body>
-<?php include_once("analyticstracking.php") ?>
+    <?php include_once("curieux.php") ?>
+    <?php include_once("analyticstracking.php") ?>
     <header id="header-accueil">
        <?php $page = 'index'; require 'menu.php';?>
        <div id="slogan-accueil">
