@@ -15,14 +15,10 @@
             <h2 class="pad3">Application Obygo
             </h2>
             <img class="img-responsive" src="images/oby.png" alt="cahier-des-charges">
-            <p>Trium est un projet professionel réalisé lors de ma première année de Master. Le client était un groupe de rock de la région PACA appelé "Avis de bâtard". La problématique du client : Comment trouver des salles de concerts plus facilement pour se faire connaître ? De plus, créer un lien entre le groupe et le public par un système innovant ? En effet, il est très difficile de trouver des salles pour des petits groupes et notamment dans la région PACA où l'on trouve plus de boîte de nuit avec des Djs. La solution apportée a été de créer un site web qui permet de diffuser des concerts en live ainsi que des répétitions directement via le site de Trium. «Trium est un concept qui permet de faire rentrer les concerts dans le quotidien des gens, en leur permettant d’assister à ces événements via un site web dédié. De ce fait, une personne pourra découvrir de nouveaux artistes, les voir jouer sur scène sans avoir à se déplacer. L’utilisateur pourra partager ce moment avec son entourage et ceci à un prix attractif.»
-            </p>
-            <p>Vous pouvez visionner le cahier des charges en cliquant&nbsp;
-              <a href="download/cahier.pdf" target="_blank">ici
-              </a>
+            <p>Obygo est un projet d’application pour la société RPH développement sur lequel ont travaillé plusieurs membres de LORK. Fonctionnant comme un moteur de recherche, Obygo permet à chacun de référencer et de trouver des activités et des évènements sur une zone géographique donnée. Ils permet aussi aux professionnels et organisateurs d’évènements de promouvoir leur activité et de gagner en visibilité. Notre équipe est intervenue sur l’ensemble de ce projet de la définition de son identité (nom, charte graphique, logo) à sa création (design, développement) en passant par la définition du contenu et des fonctionnalités.
             </p>
             <ul class="list-inline">
-              <li><span class="orange">Date:</span> Année 2014/2015
+              <li><span class="orange">Date:</span> Année 2015
               </li>
               <li><span class="orange">Client:</span> Rph Développement
               </li>
@@ -57,7 +53,7 @@
             <img class="img-responsive" src="images/noob2.png" alt="projet-noob">
             <img class="img-responsive" src="images/noob3.png" alt="application-noob">
             <img class="img-responsive" src="images/noob4.png" alt="mockup-noob">
-            <p >Trium est un projet professionel réalisé lors de ma première année de Master. Le client était un groupe de rock de la région PACA appelé "Avis de bâtard". La problématique du client : Comment trouver des salles de concerts plus facilement pour se faire connaître ? De plus, créer un lien entre le groupe et le public par un système innovant ? En effet, il est très difficile de trouver des salles pour des petits groupes et notamment dans la région PACA où l'on trouve plus de boîte de nuit avec des Djs. La solution apportée a été de créer un site web qui permet de diffuser des concerts en live ainsi que des répétitions directement via le site de Trium. «Trium est un concept qui permet de faire rentrer les concerts dans le quotidien des gens, en leur permettant d’assister à ces événements via un site web dédié. De ce fait, une personne pourra découvrir de nouveaux artistes, les voir jouer sur scène sans avoir à se déplacer. L’utilisateur pourra partager ce moment avec son entourage et ceci à un prix attractif.»
+            <p >Ce projet d’application reprend l’univers de la web-série Noob créée par Olydri. Plusieurs membres de LORK ont participé au projet qui était de créer une application permettant de regrouper l’ensemble des épisodes de la web-série et de générer un fil d’actualités. Au cours de ce projet nous avons aussi créé une BD interactive alliée à des mini-jeux pour amener une valeur ajoutée aux utilisateurs
             </p>
             <ul class="list-inline ">
               <li><span class="orange">Date:</span> Année 2014/2015
@@ -168,7 +164,7 @@
             </h2>
             <img class="img-responsive" src="images/sport.jpg" alt="logo-e-sport">
             <img class="img-responsive" src="images/sport2.jpg" alt="graphisme-logo">
-            <p >Trium est un projet professionel réalisé lors de ma première année de Master. Le client était un groupe de rock de la région PACA appelé "Avis de bâtard". La problématique du client : Comment trouver des salles de concerts plus facilement pour se faire connaître ? De plus, créer un lien entre le groupe et le public par un système innovant ? En effet, il est très difficile de trouver des salles pour des petits groupes et notamment dans la région PACA où l'on trouve plus de boîte de nuit avec des Djs. La solution apportée a été de créer un site web qui permet de diffuser des concerts en live ainsi que des répétitions directement via le site de Trium. «Trium est un concept qui permet de faire rentrer les concerts dans le quotidien des gens, en leur permettant d’assister à ces événements via un site web dédié. De ce fait, une personne pourra découvrir de nouveaux artistes, les voir jouer sur scène sans avoir à se déplacer. L’utilisateur pourra partager ce moment avec son entourage et ceci à un prix attractif.»
+            <p >Ce logo, a été réaliser sous Illustrator, c'est un projet personel visant a consolider les connaissances du logiciel. Travail en vectoriel, tracé a la plume et mis en situation avec Photoshop. Il représente un Loup au sein d'un logo type E-sport.
             </p>
             <ul class="list-inline ">
               <li ><span class="orange">Date:</span> Année 2016

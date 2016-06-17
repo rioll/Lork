@@ -110,11 +110,11 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
         </div>
       <div class="row pad3">
           <div class="col-md-12 col-sm-12 text-center">
-            <p class="orange text-vingt">LORK sait bien s'entourer, c'est pouquoi  il est aussi possible de répondre à vos besoins de production audiovisuelle et 3D</p>
+            <p class="orange text-vingt">LORK sait bien s'entourer, c'est pourquoi  il est aussi possible de répondre à vos besoins de production audiovisuelle et 3D</p>
           </div>
       </div>
-      <div class="row pad3 ">
-          <div class="col-md-12 col-sm-12 text-center pad2">
+      <div class="row padb5 ">
+          <div class="col-md-12 col-sm-12 text-center">
             <a href="contact" class="btn-devis">Faire une demande de devis</a>
           </div>
       </div>
