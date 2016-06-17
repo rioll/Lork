@@ -9,7 +9,7 @@
     <title>Lork - Equipe
     </title>
     <link href='https://fonts.googleapis.com/css?family=Dosis|Signika' rel='stylesheet' type='text/css'>
-    <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     <link href="images/ico.png" rel="shortcut icon">
@@ -66,7 +66,7 @@
           </p>
           <p class="pad2 wow bounceInUp animated text-dix quiquequoi">
             Originaire de Corrèze, Achille est en charge de la partie graphisme et vous accompagnera dans
-            la création d’une identité visuelle qui corresponde à votre image. Son objectif est de parvenir à retranscrire
+            la création d’une identité visuelle qui correspond à votre image. Son objectif est de parvenir à retranscrire
             au mieux votre message et votre identité et ses compétences en design lui permettront de vous proposer
             des solutions esthétiques et ergonomiques sur vos projets print, web et mobile.
           </p>

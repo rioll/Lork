@@ -8,7 +8,7 @@
         <meta content="Fargeaudou - Flamein - Picarony" name="author">
     <title>Lork - Freelance</title>
     <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet' type='text/css'>
-    <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
         <script src="js/modernizr.custom.97074.js"></script>
 
@@ -75,16 +75,15 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
         <ul id="da-thumbs" class="da-thumbs">
           <li>
             <a href="services.php">
-                <img src="images/branding.jpg" width="430" height="270" alt"branding">
+                <img src="images/branding.jpg" width="430" height="270" alt="branding" >
                 <div>
                 <span><b class="vert">BRANDING</b> </br>Nom - Slogan - Charte Graphique</span>
-
                 </div>
             </a>
           </li>
            <li>
             <a href="services.php">
-                <img src="images/graphisme.jpg" width="430" height="270" alt="graphisme">
+                <img src="images/graphisme.jpg" width="430" height="270" alt="graphisme" >
                 <div>
                   <span><b class="vert">GRAPHISME</b> </br>Conception - Digital - Print</span>
                 </div>
@@ -92,7 +91,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
           </li>
            <li>
             <a href="services.php">
-                <img src="images/programmation-web.jpg" width="430" height="270" alt="programmation">
+                <img src="images/programmation-web.jpg" width="430" height="270" alt="programmation" >
                 <div>
                   <span><b class="vert">PROGRAMMATION</b> </br>Web - Mobile</span>
                 </div>
@@ -100,7 +99,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
           </li>
            <li>
             <a href="services.php">
-                <img src="images/seo.jpg" width="430" height="270" alt"referencement">
+                <img src="images/seo.jpg" width="430" height="270" alt="referencement" >
                 <div>
                  <span><b class="vert">REFERENCEMENT</b> </br>Naturel - Adwords</span>
                 </div>

@@ -10,7 +10,7 @@
         <title>Lork - Services</title>
         <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet'
         type='text/css'>
-        <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+        <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
         <link href="css/animate.css" rel="stylesheet">
         <link href="css/main.css" rel="stylesheet">
         <link href="images/ico.png" rel="shortcut icon">
