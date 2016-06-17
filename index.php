@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta content="Lork, collectif freelance, web developpeur et web design" name="description">
+    <meta content="Lork est un collectif freelance pour vous aider à la création de votre projet, alliant developpeur, referenceur et web designer" name="description">
         <meta content="Fargeaudou - Flamein - Picarony" name="author">
-    <title>Lork</title>
+    <title>Lork - Freelance</title>
     <link href='https://fonts.googleapis.com/css?family=Dosis:400,600|Signika' rel='stylesheet' type='text/css'>
     <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">

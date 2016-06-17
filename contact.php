@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-    <meta content="Lork, collectif freelance, web developpeur et web design" name=
+    <meta content="Lork, n'hésitez pas à nous contacter pour toutes demandes d'informations ou de devis." name=
           "description">
     <meta content="Fargeaudou - Flamein - Picarony" name="author">
     <title>Lork - Contact

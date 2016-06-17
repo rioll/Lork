@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta content="Lork, collectif freelance, web developpeur et web design" name="description">
+    <meta content="Retrouvez les différents projets réalisés par l'équipe Lork, des clients qui nous ont fait confiance." name="description">
     <meta content="Fargeaudou - Flamein - Picarony" name="author">
     <title>Lork - Projets
     </title>
