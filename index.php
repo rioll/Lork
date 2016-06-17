@@ -28,7 +28,7 @@
        <?php $page = 'index'; require 'menu.php';?>
        <div id="slogan-accueil">
          <h1 class="gris">Vos projets sont les nôtres.</h1>
-         <p class="white text-vingt">LORK, c'est un groupe de trois freelances passionés, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</p>
+         <h2 class="white text-vingt">LORK, c'est un groupe de trois freelances passionés, qui mettent leurs compétences en commun pour réaliser tous vos projets de communication</h2>
 
        </div>
     </header>
@@ -75,7 +75,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
         <ul id="da-thumbs" class="da-thumbs">
           <li>
             <a href="services.php">
-                <img src="images/branding.jpg" width="430" height="270">
+                <img src="images/branding.jpg" width="430" height="270" alt"branding">
                 <div>
                 <span><b class="vert">BRANDING</b> </br>Nom - Slogan - Charte Graphique</span>
 
@@ -84,7 +84,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
           </li>
            <li>
             <a href="services.php">
-                <img src="images/graphisme.jpg" width="430" height="270">
+                <img src="images/graphisme.jpg" width="430" height="270" alt="graphisme">
                 <div>
                   <span><b class="vert">GRAPHISME</b> </br>Conception - Digital - Print</span>
                 </div>
@@ -92,7 +92,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
           </li>
            <li>
             <a href="services.php">
-                <img src="images/programmation-web.jpg" width="430" height="270">
+                <img src="images/programmation-web.jpg" width="430" height="270" alt="programmation">
                 <div>
                   <span><b class="vert">PROGRAMMATION</b> </br>Web - Mobile</span>
                 </div>
@@ -100,7 +100,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
           </li>
            <li>
             <a href="services.php">
-                <img src="images/seo.jpg" width="430" height="270">
+                <img src="images/seo.jpg" width="430" height="270" alt"referencement">
                 <div>
                  <span><b class="vert">REFERENCEMENT</b> </br>Naturel - Adwords</span>
                 </div>
