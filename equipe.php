@@ -33,7 +33,7 @@
       </div>  
       <div class="row pad2 text-center">
         <div class="col-md-4 col-sm-12 air">
-          <img src="images/emilien.jpg" class="roundedO ">
+          <img src="images/emilien.jpg" class="roundedO " alt="emilien-lork">
           <h3 class="orange">Emilien
           </h3>
           <p class="text-vingt">Référenceur
@@ -47,7 +47,7 @@
           </a>
         </div>
         <div class="col-md-4 col-sm-12 air">
-          <img src="images/Sacha.jpg" class="roundedV" >
+          <img src="images/Sacha.jpg" class="roundedV" alt="sacha-lork" >
           <h3 class="vert">Sacha
           </h3>
           <p class="text-vingt">Développeur
@@ -59,7 +59,7 @@
           </a>
         </div>
         <div class="col-md-4 col-sm-12 air">
-          <img src="images/achille.jpg" class="roundedB ">
+          <img src="images/achille.jpg" class="roundedB " alt="achille-lork">
           <h3 class="bleu">Achille
           </h3>
           <p class="text-vingt">Graphiste
