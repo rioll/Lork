@@ -51,7 +51,7 @@
          <div class="col-md-4">
           <p class="bleu">Téléphone : 06.29.61.84.72</p>
           <p class="bleu">Mail : lork.freelance@gmail.com</p>
-          <p class="bleu">Facebook : <a href="" target="blank_">Lork</a>
+          <p class="bleu">Facebook : <a href="https://www.facebook.com/LORK-1705174766410481/" target="blank">Lork</a>
           </br>
                 <div class="container-fluid pad0">
             <form id="contactForm" name="contactForm" novalidate="">
