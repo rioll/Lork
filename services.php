@@ -36,7 +36,7 @@
                 </div>
                 <!--**************BRANDING************-->
                 <div class="row pad2">
-                        <div class="col-md-6 right wow bounceInRight animated"><img height="270" src="images/branding.jpg" width="430"></div>
+                        <div class="col-md-6 right wow bounceInRight animated"><img height="270" src="images/branding.jpg" width="430" alt"service-branding"></div>
                         <div class="col-md-4 wow bounceInLeft animated">
                                 <h2 class="vert gras">Branding</h2>
                                 <h3 class="orange">Charte graphique - Logo</h3>
@@ -61,12 +61,12 @@
                                 attention à chacun er mettrons tout en oeuvre pour répondre à vos
                                 exigences.</p>
                         </div>
-                        <div class="col-md-6 wow bounceInLeft animated"><img height="270" src="images/graphisme.jpg" width="430"></div>
+                        <div class="col-md-6 wow bounceInLeft animated"><img height="270" src="images/graphisme.jpg" width="430" alt"service-graphisme"></div>
                 </div>
                 <!--**************DEV************-->
                 <div class="row pad2">
                         <div class="col-md-6 right"><img height="270" src=
-                        "images/programmation-web.jpg" width="430"></div>
+                        "images/programmation-web.jpg" width="430" alt="service-developpement"></div>
                         <div class="col-md-4">
                                 <h2 class="vert gras">Développement</h2>
                                 <h3 class="orange">Web - Mobile</h3>
@@ -91,7 +91,7 @@
                                 le point final de tout projet mené à bien, et vous offre la visibilité que vous mérité.</p>
                                 <p></p>
                         </div>
-                        <div class="col-md-6"><img height="270" src="images/seo.jpg" width="430"></div>
+                        <div class="col-md-6"><img height="270" src="images/seo.jpg" width="430" alt="service-referencement"></div>
                 </div>
                 <div class="row pad2">
                         <div class="col-md-12 col-sm-12 text-center">
