@@ -56,8 +56,8 @@
                                 <h3 class="orange">Conception - Digital - Print</h3>
                                 <p class="body">Notre graphiste prendra soin de dialoguer avec vous
                                 afin de parvenir à un résultat à la fois personnalisé et
-                                professionel. Projet de site web, application mobile, de création
-                                de logo ou encore d'affiche publicitaire. Nous accordons la même
+                                professionnel. Projet de site web, application mobile, de création
+                                de logos ou encore d'affiches publicitaires. Nous accordons la même
                                 attention à chacun er mettrons tout en oeuvre pour répondre à vos
                                 exigences.</p>
                         </div>
@@ -73,7 +73,7 @@
                                 <p class="body">Spécialiste du développement de sites web et
                                 d'applications, notre développeur vous accompagne de la conception
                                 au lancement de votre site internet. Site vitrine, e-commerce ou
-                                même application mobile notre équipe sera vous accompagner et
+                                même application mobile notre équipe saura vous accompagner et
                                 définir avec vous un projet sur mesure en adéquation avec vos
                                 besoins, objectifs et budget.</p>
                         </div>
@@ -88,7 +88,7 @@
                                 identifiera avec vous vos besoins et la stratégie à adopter. Nous
                                 rechercherons les mots clés à mettre en avant pour que votre site
                                 puisse avoir la meilleure position possible. Le référencement est
-                                le point final de tout projet mené à bien, et vous offre la visibilité que vous mérité.</p>
+                                le point final de tout projet mené à bien, et vous offre la visibilité que vous méritez.</p>
                                 <p></p>
                         </div>
                         <div class="col-md-6"><img height="270" src="images/seo.jpg" width="430" alt="service-referencement"></div>

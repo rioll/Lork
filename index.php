@@ -73,7 +73,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
       
       <div class="row">
         <ul id="da-thumbs" class="da-thumbs">
-          <li>
+          <li class="img-responsive">
             <a href="services.php">
                 <img src="images/branding.jpg" width="430" height="270" alt="branding" >
                 <div>
@@ -81,15 +81,15 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
                 </div>
             </a>
           </li>
-           <li>
+           <li  class="img-responsive">
             <a href="services.php">
-                <img src="images/graphisme.jpg" width="430" height="270" alt="graphisme" >
+                <img src="images/graphisme.jpg" width="430" height="270" alt="graphisme">
                 <div>
                   <span><b class="vert">GRAPHISME</b> </br>Conception - Digital - Print</span>
                 </div>
             </a>
           </li>
-           <li>
+           <li class="img-responsive"> 
             <a href="services.php">
                 <img src="images/programmation-web.jpg" width="430" height="270" alt="programmation" >
                 <div>
@@ -97,9 +97,9 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
                 </div>
             </a>
           </li>
-           <li>
+           <li  class="img-responsive">
             <a href="services.php">
-                <img src="images/seo.jpg" width="430" height="270" alt="referencement" >
+                <img src="images/seo.jpg" width="430" height="270" alt="referencement">
                 <div>
                  <span><b class="vert">REFERENCEMENT</b> </br>Naturel - Adwords</span>
                 </div>
