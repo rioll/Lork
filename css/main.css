@@ -111,6 +111,11 @@ footer {
 		margin-bottom: 10%;
 	}
 }
+.img-respon{
+	max-width: 100%;
+    height: auto;
+
+}
 /*element*/
 .btn-devis {
 	background-color: #9fee00;
@@ -404,6 +409,17 @@ footer {
 	text-align: center;
 	margin: 25% 20% 25% 20%;
 }
+
+@media (max-width: 768px) {
+
+	.da-thumbs li a div {
+
+	    display: block;
+	    left: 0px;
+	    top: 0px;
+	    transition: all 300ms ease;
+	}
+}
 /****************************************************************************************************
 ***********************************************EQUIPE************************************************
 ****************************************************************************************************/
@@ -417,12 +433,7 @@ footer {
 #information-services {
 	margin-bottom: 2%;
 }
-@media (max-width: 768px) {
 
-	.img-service{
-		width: 80%;
-	}
-}
 /****************************************************************************************************
 ***********************************************REA***************************************************
 ****************************************************************************************************/
@@ -432,7 +443,8 @@ footer {
 	margin: auto;
 }
 #information-projets{
-	height: 100vh;
+	height:  auto;
+	padding-bottom: 5%;
 }
 .vignette-projet {
 	width: 100%;
@@ -518,6 +530,11 @@ footer {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+@media (max-width: 768px) {
+		#filters {
+		margin:0;
+	}
 }
 
 /****************************************************************************************************

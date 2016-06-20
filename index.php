@@ -99,7 +99,7 @@ sur lesquels nous travaillons. Notre approche stratégique vise l’adhésion de
           </li>
            <li  class="img-responsive">
             <a href="services.php">
-                <img src="images/seo.jpg" width="430" height="270" alt="referencement">
+                <img src="images/seo.jpg" width="430" height="270" alt="referencement" >
                 <div>
                  <span><b class="vert">REFERENCEMENT</b> </br>Naturel - Adwords</span>
                 </div>
