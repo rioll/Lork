@@ -112,7 +112,7 @@
               </a>
               <div class="label">
                 <div class="label-text">
-                  <a class="text-title">Poster / Wild
+                  <a class="text-title">Tee-Shirt / Wild
                   </a>
                 </div>
                 <div class="label-bg">
@@ -168,11 +168,26 @@
           <div class="portfolio divers" data-cat="divers">
             <div class="portfolio-wrapper">           
               <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal"> 
-                <img src="images/trium.jpg" alt="" />
+                <img src="images/trium.jpg" alt="site-web" />
               </a>
               <div class="label">
                 <div class="label-text">
                   <a class="text-title">Vidéo / Trium
+                  </a>
+                </div>
+                <div class="label-bg">
+                </div>
+              </div>
+            </div>
+          </div>
+            <div class="portfolio logoo" data-cat="logoo">
+            <div class="portfolio-wrapper">           
+              <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal"> 
+                <img src="images/squirel.jpg" alt="logo-esport" />
+              </a>
+              <div class="label">
+                <div class="label-text">
+                  <a class="text-title">Logo / E-Sport
                   </a>
                 </div>
                 <div class="label-bg">

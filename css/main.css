@@ -443,7 +443,7 @@ footer {
 	margin: auto;
 }
 #information-projets{
-	height:  auto;
+	min-height:  100vh;
 	padding-bottom: 5%;
 }
 .vignette-projet {
@@ -532,8 +532,11 @@ footer {
     transform: rotate(90deg);
 }
 @media (max-width: 768px) {
-		#filters {
+	#filters {
 		margin:0;
+	}
+	#filters li span {
+	    padding: 5px 10px;
 	}
 }
 
